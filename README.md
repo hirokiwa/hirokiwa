@@ -1,7 +1,7 @@
 ### Hi there 👋
 wakuwaku
 katakata
-<img url="https://hirokiwa.github.io/mypage/img/IMG_E13802.JPG">
+<img src="https://hirokiwa.github.io/mypage/img/IMG_E13802.JPG">
 
 <!--
 **hirokiwa/hirokiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
