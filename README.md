@@ -1,6 +1,4 @@
-### Hi there 👋
-wakuwaku
-katakata
+### Hello there 👋
 <img src="https://hirokiwa.github.io/mypage/img/IMG_E13802.JPG">
 
 <!--
