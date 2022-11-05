@@ -3,11 +3,11 @@
 # Developer Hiroki <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 ## About me 
--🎉I'm Hiroki from Japan
+- 🎉I'm Hiroki from Japan
 
--🌤Development with React
+- 🌤Development with React
 
--💻A member of [watnow](http://www.watnow.jp/)
+- 💻A member of [watnow](http://www.watnow.jp/)
 
 ## Languages and Tools
 
@@ -45,13 +45,13 @@
 
 ## Products
 
--📌[GPA Calculator for Ritsumeikan](https://rits-gpa.vercel.app/)
+- 📌[GPA Calculator for Ritsumeikan](https://rits-gpa.vercel.app/)
 
--🙎‍♂️[ぼくまさし](https://masashi-calorie.vercel.app/)
+- 🙎‍♂️[ぼくまさし](https://masashi-calorie.vercel.app/)
 
--🎨[Water Canvas](https://water-canvas.netlify.app/)
+- 🎨[Water Canvas](https://water-canvas.netlify.app/)
 
--🍏[ideal](https://fukuokaideal.herokuapp.com/)
+- 🍏[ideal](https://fukuokaideal.herokuapp.com/)
 
 ## Hackathon
 
