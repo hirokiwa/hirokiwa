@@ -58,7 +58,7 @@
 | Year | Title | Result |
 | ---- | ----- | ------ |
 | 2022 | [ハックツハッカソン プテラカップ](https://cup.hackz.team/ptera) | 優秀賞 |
-| 2022 | [ハックツハッカソン ギガノトカップ](https://www.javada.or.jp/jyakunen20/about.html) | 特別賞 |
+| 2022 | [ハックツハッカソン ギガノトカップ](https://cup.hackz.team/giganoto/) | 特別賞 |
 | 2021 | [ハックツハッカソン スピノカップ](https://cup.hackz.team/spino/) | |
 | 2021 | [Yahoo! Open Hack U 2021](https://hacku.yahoo.co.jp/2021) | |
 
