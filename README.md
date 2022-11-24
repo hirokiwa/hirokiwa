@@ -51,7 +51,7 @@
 
 - 🎨 [Water Canvas](https://water-canvas.netlify.app/)
 
-- 🍏 [ideal](https://fukuokaideal.herokuapp.com/)
+- 🍏 [ideal](https://idealapp.vercel.app/)
 
 ## Hackathon
 
@@ -70,3 +70,8 @@
 | GitHub | [@hirokiwa](https://github.com/hirokiwa) |
 | Qiita | [@hirokiwa](https://qiita.com/hirokiwa) |
 | note | [@hirokiwa](https://note.com/hirokiwa) |
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokiwa" />
+</a> -->
