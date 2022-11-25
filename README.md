@@ -45,6 +45,8 @@
 
 ## Products
 
+- 📸 [Alexture Diary](https://alexturediary.vercel.app/)
+
 - 📌 [GPA Calculator for Ritsumeikan](https://rits-gpa.vercel.app/)
 
 - 🙎‍♂️ [ぼくまさし](https://masashi-calorie.vercel.app/)
