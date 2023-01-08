@@ -45,6 +45,12 @@
     <a href="https://vuejs.org/index.html" target="_blank" ±rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
     </a>
+    <a href="https://console.cloud.google.com" target="_blank" ±rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com" target="_blank" ±rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+    </a>
 
 ## Products
 
