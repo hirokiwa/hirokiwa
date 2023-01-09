@@ -3,9 +3,13 @@
 # Developer Hiroki <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 ## About me 
-- 🎉 I'm Hiroki from Japan
+- 🎉 Hiroki from Japan
 
-- 🌤 Development with React
+- 🍀 Web Frontend/Backend Engineer
+
+- 🌏 React Lover
+
+- 🌤 Interested in Mobile
 
 - 💻 A member of [watnow](http://www.watnow.jp/)
 
