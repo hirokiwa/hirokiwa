@@ -2,8 +2,6 @@
 
 # Developer Hiroki <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
-<img src="https://user-images.githubusercontent.com/89170014/213743706-d83faf26-52e2-4885-8870-8c7a07562501.png" width="200px">
-
 ## About me 
 - 🎉 Hiroki from Japan
 
