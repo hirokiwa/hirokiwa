@@ -58,6 +58,8 @@
 
 ## Products
 
+- 📸 [コピペでQR読み取りくん](https://yomitorikun.hirokiwa.com)
+
 - 📸 [Alexture Diary](https://alexturediary.vercel.app/)
 
 - 📌 [GPA Calculator for Ritsumeikan](https://rits-gpa.vercel.app/)
@@ -68,20 +70,11 @@
 
 - 🍏 [ideal](https://idealapp.vercel.app/)
 
-## Hackathon
-
-| Year | Title | Result |
-| ---- | ----- | ------ |
-| 2022 | [ハックツハッカソン プテラカップ](https://cup.hackz.team/ptera) | 優秀賞 |
-| 2022 | [ハックツハッカソン ギガノトカップ](https://cup.hackz.team/giganoto/) | 特別賞 |
-| 2021 | [ハックツハッカソン スピノカップ](https://cup.hackz.team/spino/) | |
-| 2021 | [Yahoo! Open Hack U 2021](https://hacku.yahoo.co.jp/2021) | |
-
 ## Links
 
 | Name | Link |
 | --- | ---|
-| Twitter | [@hiroki_int](https://twitter.com/hiroki_int) |
+| X | [@hiroki_int](https://twitter.com/hiroki_int) |
 | GitHub | [@hirokiwa](https://github.com/hirokiwa) |
 | Qiita | [@hirokiwa](https://qiita.com/hirokiwa) |
 | note | [@hirokiwa](https://note.com/hirokiwa) |
