@@ -58,7 +58,7 @@
 
 ## Products
 
-- 📸 [コピペでQR読み取りくん](https://yomitorikun.hirokiwa.com)
+- 🔎 [コピペでQR読み取りくん](https://yomitorikun.hirokiwa.com)
 
 - 📸 [Alexture Diary](https://alexturediary.vercel.app/)
 
