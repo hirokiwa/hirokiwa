@@ -74,7 +74,7 @@
 
 | Name | Link |
 | --- | ---|
-| X | [@hiroki_int](https://twitter.com/hirokiwasan) |
+| X | [@hirokiwasan](https://twitter.com/hirokiwasan) |
 | GitHub | [@hirokiwa](https://github.com/hirokiwa) |
 | Qiita | [@hirokiwa](https://qiita.com/hirokiwa) |
 | note | [@hirokiwa](https://note.com/hirokiwa) |
