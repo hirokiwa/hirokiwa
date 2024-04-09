@@ -11,8 +11,6 @@
 
 - 🌤 Interested in Mobile
 
-- 💻 A member of [watnow](http://www.watnow.jp/)
-
 ## Products
 
 - 🔎 [コピペでQR読み取りくん](https://yomitorikun.hirokiwa.com)
