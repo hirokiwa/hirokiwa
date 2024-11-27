@@ -13,6 +13,8 @@
 
 ## Products
 
+- 🎉 [AI おじさん 毎日ブログ](https://ai-blog.hirokiwa.com)
+
 - 🔎 [コピペでQR読み取りくん](https://yomitorikun.hirokiwa.com)
 
 - 📸 [Alexture Diary](https://alexturediary.vercel.app/)
